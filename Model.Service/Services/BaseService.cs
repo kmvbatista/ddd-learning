@@ -33,7 +33,7 @@ namespace Model.Service.Services
         {
             if (id == 0)
                 throw new ArgumentException("The id can't be zero.");
-
+             
             repository.Delete(id);
         }
 
