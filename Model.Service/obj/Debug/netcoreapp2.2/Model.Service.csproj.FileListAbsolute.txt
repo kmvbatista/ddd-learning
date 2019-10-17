@@ -1,0 +1,5 @@
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Service\bin\Debug\netcoreapp2.2\Model.Service.deps.json
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Service\bin\Debug\netcoreapp2.2\Model.Service.dll
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Service\obj\Debug\netcoreapp2.2\Model.Service.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Service\obj\Debug\netcoreapp2.2\Model.Service.AssemblyInfoInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Service\obj\Debug\netcoreapp2.2\Model.Service.AssemblyInfo.cs

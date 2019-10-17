@@ -1,0 +1,14 @@
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\bin\Debug\netcoreapp2.2\ApplicationControllers.deps.json
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\bin\Debug\netcoreapp2.2\ApplicationControllers.runtimeconfig.json
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\bin\Debug\netcoreapp2.2\ApplicationControllers.runtimeconfig.dev.json
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\bin\Debug\netcoreapp2.2\ApplicationControllers.dll
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.csprojAssemblyReference.cache
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.RazorAssemblyInfo.cache
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.RazorAssemblyInfo.cs
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.AssemblyInfoInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.AssemblyInfo.cs
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.RazorTargetAssemblyInfo.cache
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\bin\Debug\netcoreapp2.2\ApplicationControllers.pdb
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.dll
+C:\Users\Kennedy\source\repos\ddd-learning\ApplicationControllers\obj\Debug\netcoreapp2.2\ApplicationControllers.pdb

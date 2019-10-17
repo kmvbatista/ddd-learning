@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Model.Domain.Entities
+﻿namespace Model.Domain.Entities
 {
-    public class User
+    public class User : BaseEntity
     {
         public string Name { get; set; }
         public string BirthDate { get; set; }

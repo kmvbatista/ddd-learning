@@ -31,7 +31,14 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj"
+              },
+              "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Service\\Model.Service.csproj": {
+                "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Service\\Model.Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -53,6 +60,211 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj",
+        "projectName": "Model.Domain",
+        "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj",
+        "packagesPath": "C:\\Users\\Kennedy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kennedy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Infra.Data\\Model.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Infra.Data\\Model.Infra.Data.csproj",
+        "projectName": "Model.Infra.Data",
+        "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Infra.Data\\Model.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Kennedy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kennedy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.59.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Service\\Model.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Service\\Model.Service.csproj",
+        "projectName": "Model.Service",
+        "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Service\\Model.Service.csproj",
+        "packagesPath": "C:\\Users\\Kennedy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kennedy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Domain\\Model.Domain.csproj"
+              },
+              "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Infra.Data\\Model.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Kennedy\\source\\repos\\ddd-learning\\Model.Infra.Data\\Model.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.5.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

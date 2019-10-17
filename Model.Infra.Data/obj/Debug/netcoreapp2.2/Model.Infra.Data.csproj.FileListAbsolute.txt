@@ -1,0 +1,9 @@
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\bin\Debug\netcoreapp2.2\Model.Infra.Data.deps.json
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\bin\Debug\netcoreapp2.2\Model.Infra.Data.dll
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\obj\Debug\netcoreapp2.2\Model.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\obj\Debug\netcoreapp2.2\Model.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\obj\Debug\netcoreapp2.2\Model.Infra.Data.AssemblyInfo.cs
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\bin\Debug\netcoreapp2.2\Model.Infra.Data.runtimeconfig.json
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\bin\Debug\netcoreapp2.2\Model.Infra.Data.runtimeconfig.dev.json
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\obj\Debug\netcoreapp2.2\Model.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Infra.Data\bin\Debug\netcoreapp2.2\Model.Domain.dll
