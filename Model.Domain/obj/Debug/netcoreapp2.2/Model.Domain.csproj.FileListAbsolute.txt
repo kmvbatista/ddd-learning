@@ -1,0 +1,6 @@
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Domain\bin\Debug\netcoreapp2.2\Model.Domain.deps.json
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Domain\bin\Debug\netcoreapp2.2\Model.Domain.dll
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Domain\obj\Debug\netcoreapp2.2\Model.Domain.csprojAssemblyReference.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Domain\obj\Debug\netcoreapp2.2\Model.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Domain\obj\Debug\netcoreapp2.2\Model.Domain.AssemblyInfoInputs.cache
+C:\Users\Kennedy\source\repos\ddd-learning\Model.Domain\obj\Debug\netcoreapp2.2\Model.Domain.AssemblyInfo.cs
